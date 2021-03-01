@@ -1,0 +1,68 @@
+Broken Links: 
+
+assets/bootstrap-4.4.1.css	data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'><path fill='#fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26l2.974 2.99L8 2.193z'/></svg>
+assets/bootstrap-4.4.1.css	data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'><path stroke='#fff' d='M0 2h4'/></svg>
+assets/bootstrap-4.4.1.css	data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='-4 -4 8 8'><circle r='3' fill='#fff'/></svg>
+assets/bootstrap-4.4.1.css	data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='4' height='5' viewBox='0 0 4 5'><path fill='#343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/></svg>
+assets/bootstrap-4.4.1.css	data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='rgba(0, 0, 0, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>
+assets/bootstrap-4.4.1.css	data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='rgba(255, 255, 255, 0.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>
+assets/bootstrap-4.4.1.css	data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' fill='#fff' width='8' height='8' viewBox='0 0 8 8'><path d='M5.25 0l-4 4 4 4 1.5-1.5L4.25 4l2.5-2.5L5.25 0z'/></svg>
+assets/bootstrap-4.4.1.css	data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' fill='#fff' width='8' height='8' viewBox='0 0 8 8'><path d='M2.75 0l-1.5 1.5L3.75 4l-2.5 2.5L2.75 8l4-4-4-4z'/></svg>
+pages/about.html	tel:705-237-7942
+pages/about_bootstrap.html	file:///D|/Dream Weaver/my_portfolio/js/jquery-3.4.1.min.js
+pages/about_bootstrap.html	file:///D|/Dream Weaver/my_portfolio/js/popper.min.js
+pages/about_bootstrap.html	file:///D|/Dream Weaver/my_portfolio/js/bootstrap-4.4.1.js
+
+
+External Links: 
+
+pages/about.html	https://use.typekit.net/rtx0nbj.css
+pages/about.html	https://use.typekit.net/rtx0nbj.css
+pages/about.html	https://use.typekit.net/rtx0nbj.css
+pages/about.html	https://en.wikipedia.org/wiki/Lilium
+pages/about.html	https://en.wikipedia.org/wiki/Autumn
+pages/about.html	https://en.wikipedia.org/wiki/Dog
+pages/about.html	https://www.youtube.com/watch?v=IQn_0KA_Dw4
+pages/about.html	https://en.wikipedia.org/wiki/Sweet_tea
+pages/about.html	https://en.wikipedia.org/wiki/Blue
+pages/about.html	mailto:elizabeths14@gmail.com
+pages/about_bootstrap.html	mailto:#
+pages/blog2.html	https://use.typekit.net/rtx0nbj.css
+pages/blog2.html	https://use.typekit.net/rtx0nbj.css
+pages/blog2.html	https://use.typekit.net/rtx0nbj.css
+pages/contact.html	https://use.typekit.net/rtx0nbj.css
+pages/contact.html	https://use.typekit.net/rtx0nbj.css
+pages/contact.html	https://use.typekit.net/rtx0nbj.css
+pages/gallery1.html	https://use.typekit.net/rtx0nbj.css
+pages/gallery1.html	https://use.typekit.net/rtx0nbj.css
+pages/gallery1.html	https://use.typekit.net/rtx0nbj.css
+Templates/basic-template.dwt	https://use.typekit.net/rtx0nbj.css
+Templates/basic-template.dwt	https://use.typekit.net/rtx0nbj.css
+Templates/basic-template.dwt	https://use.typekit.net/rtx0nbj.css
+
+
+Orphaned Files: 
+
+assets/comment-box.php
+images/background1.jpg
+images/Camera.jpg
+images/gallery_images/gardens1.jpg
+images/gallery_images/gardens2.jpg
+images/gallery_images/gardens3.jpg
+images/gallery_images/gardens4.jpg
+images/gallery_images/gardens5.jpg
+images/gallery_images/gardens6.jpg
+images/gallery_images/gardens7.jpg
+images/gallery_images/gardens8.jpg
+images/gallery_images/gardens9.jpg
+images/lens.jpg
+images/mountains2.png
+images/mountains3.png
+images/placeholder.jpg
+images/shopping.jpg_fit=scale
+images/through my lens.jpg
+mediaQueryRules.css
+
+
+Files: 59 Total,  10 HTML,  19 Orphaned
+Files 118 All links,  83 OK,  12 Broken,  23 External
